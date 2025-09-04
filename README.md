@@ -38,3 +38,5 @@ Streamlit – Web application
 -------
 
 Demo 
+
+<img width="889" height="740" alt="Image" src="https://github.com/user-attachments/assets/fa010615-961f-4843-8155-48c75a010520" />
